@@ -1,0 +1,25 @@
+.bat{
+    text-align: center;
+    background-color: rgb(177, 180, 186);
+}
+
+h2{
+    background-color: gray;
+    text-align: normal;
+    font-weight: 10px;
+    font-style: normal;
+    line-height: 20px;
+    font-size: 14px;
+    color: blue;
+}
+h1{
+    background-color: gray;
+    color: blue;
+    text-align: center;
+    letter-spacing: 10px;
+}
+.chau{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
